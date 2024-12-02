@@ -82,7 +82,7 @@ _PostInstallCommands() {
     _flatpak() {
         echo -e "Install Flatpak & Predetermined Software"
 
-        flatpak install microsoft-edge #find full package name(s)
+        flatpak install com.microsoft.Edge #find full package name(s)
         flatpal install steam
         flatpak install lutris #xbox?
         flatpak install spotify
