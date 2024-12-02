@@ -40,3 +40,4 @@ neovim
 rclone
 kio-gdrive
 tlp
+fd
